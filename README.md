@@ -22,7 +22,7 @@ This is the **Flutter frontend** for a user-specific Todo application connected 
 ## 🔗 Backend API
 
 This app connects to the backend repo:  
-🔗 [todo-app-backend (FastAPI)](https://github.com/Anupam00/todo_backend.git)
+🔗 [todo-app-backend (FastAPI)](https://github.com/Anupam00/Todoapp_backend.git)
 
 The backend API URL is configured securely via environment variables and not hardcoded in the source.
 
@@ -73,3 +73,17 @@ This will generate an APK under:
 `build/app/outputs/flutter-apk/app-release.apk`
 
 Install it manually on your Android device for testing.
+
+---
+
+## ⚠️ License
+
+This project is intended strictly for educational purposes only.
+You are not allowed to use, resell, or distribute this project or any part of it for commercial purposes.
+Reusing the codebase for client projects, monetized apps, or products is strictly prohibited.
+You may study, modify, and experiment with the codebase for learning and personal projects only with approval.
+
+---
+
+## ⚠️ Disclaimer
+This frontend was built for learning and demonstration. The author is not responsible for any misuse, data loss, or unauthorized deployment of this code in production environments. Use responsibly and at your own risk.
